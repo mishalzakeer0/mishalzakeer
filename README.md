@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mishal Zakeer</h1>
-<h3 align="center">A passionate DevOps Beginner from India</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishalzakeer&label=Profile%20views&color=0e75b6&style=flat" alt="mishalzakeer" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mishaaleyy" target="blank"><img src="https://img.shields.io/twitter/follow/mishaaleyy?logo=twitter&style=for-the-badge" alt="mishaaleyy" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps, Kubernetes**
+- 🌱 I’m currently working **Bititude Technologies**
 
-- 💬 Ask me about **Linux, Networking**
+- 💬 Ask me about **Angular, React**
 
 - 📫 How to reach me **mishalzakeer0@gmail.com**
 
